@@ -7,6 +7,7 @@
 </div>
 
 ---
+
 ### :man_technologist: About Me :
 <p>I am a Frontend Developer from Russia.</p>
 
